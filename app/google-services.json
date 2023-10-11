@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130442043025",
+    "project_id": "fbaauthdb",
+    "storage_bucket": "fbaauthdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130442043025:android:1d0d46769e518a0b61a930",
+        "android_client_info": {
+          "package_name": "com.example.fbaauthdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgiqFJ7mhDslBQmE_ejqlSopb3DVHrPjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
